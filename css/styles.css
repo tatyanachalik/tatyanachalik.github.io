@@ -327,9 +327,9 @@ h2 {
         height: auto;
     }
 
-    .name {
+    /* .name {
         font-size: 40px;
-     }
+     } */
     
 }
 
@@ -366,7 +366,7 @@ h2 {
     }
 
     .name {
-        font-size: 45px;
+        font-size: 38px;
      }
 
 }

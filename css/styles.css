@@ -43,6 +43,7 @@ h1 {
 
 .lead {
     padding-top: 140px;
+    font-size: 35px;
 }
 
 .container {
@@ -104,7 +105,7 @@ h1 {
 
 h2 {
     font-weight: 600;
-    font-size: 30px;
+    font-size: 25px;
 }
 
 
@@ -366,9 +367,9 @@ h2 {
         height: auto;
     }
 
-    .name {
+    /* .name {
         font-size: 40px;
-     }
+     } */
 
 }
 

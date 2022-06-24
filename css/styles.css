@@ -11,7 +11,7 @@ nav {
 .nav-link {
     color: white;
     font-weight: 600;
-    font-size: large;
+    font-size: medium;
     text-align: center;
 }
 
@@ -25,7 +25,7 @@ nav {
 }
 
 .jumbotron {
-    margin-top: 55px;
+    margin-top: 50px;
     padding-top: 220px;
     padding-bottom: 100px;
     background-image: url(../images/sunset.jpg);
@@ -38,6 +38,8 @@ nav {
 h1 {
     font-weight: 500;
 }
+
+
 
 .lead {
     padding-top: 140px;
@@ -55,7 +57,7 @@ h1 {
 .arrow {
     width: 50px;
     height: auto;
-    margin-top: 60px;
+    margin-top: 50px;
     transition: transform 0.4s ease-out;
     
 }
@@ -301,7 +303,7 @@ h2 {
 
 @media (min-width: 768px){
     .jumbotron h1 {
-        font-size: 60px;
+        font-size: 50px;
     }
 
     .contact {
@@ -338,15 +340,11 @@ h2 {
     }
 
     .jumbotron h1 {
-        font-size: 70px;
+        font-size: 63px;
     }
 
     .lead {
         padding-top: 510px;
-    }
-
-    .arrow {
-        margin-top: 75px;
     }
 
     .abt-text {

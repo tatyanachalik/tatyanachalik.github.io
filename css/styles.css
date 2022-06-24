@@ -104,6 +104,7 @@ h1 {
 
 h2 {
     font-weight: 600;
+    font-size: 30px;
 }
 
 
@@ -340,7 +341,7 @@ h2 {
     }
 
     .jumbotron h1 {
-        font-size: 63px;
+        font-size: 65px;
     }
 
     .lead {
@@ -366,7 +367,7 @@ h2 {
     }
 
     .name {
-        font-size: 38px;
+        font-size: 40px;
      }
 
 }
